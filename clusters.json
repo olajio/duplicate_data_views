@@ -1,0 +1,49 @@
+{
+  "clusters": {
+    "(DBaaS) Agency Dashboard": {
+      "kibana_url": "https://dbaaxxxxxx.kb.ps.cdm-db.com:9243",
+      "api_key": "Ym95S2xxxxxxxx==",
+      "verify_ssl": true
+    },
+    "(ES6DA) ES Dynamic Agency": {
+      "kibana_url": "https://es6axxxxxxx.kb.ps.cdm-db.com:9243",
+      "api_key": "TUlhZ29xxxxxxx==",
+      "verify_ssl": true
+    },
+    "(ES6BA) ES Baseline Agency": {
+      "kibana_url": "https://es6agencybase.kb.ps.cdm-db.com:9243",
+      "api_key": "RWFHbxxxxxxx==",
+      "verify_ssl": true
+    },
+    "(LayerD) ES Federal": {
+      "kibana_url": "https://es6fedxxxxx.kb.ps.cdm-db.com:9243",
+      "api_key": "b1NxeW9XXXXXXX==",
+      "verify_ssl": true
+    },
+    "(ES6DF) ES Dynamic Federal": {
+      "kibana_url": "https://es6fedexxxxx.kb.ps.cdm-db.com:9243",
+      "api_key": "d3VXMXXXXXXX==",
+      "verify_ssl": true
+    },
+    "applogging-v4": {
+      "kibana_url": "https://applogxxxxxxx.kb.ps.cdm-db.com:9243",
+      "api_key": "NjFiV2XXXXXXX==",
+      "verify_ssl": true
+    },
+    "ES6ESaaS": {
+          "kibana_url": "https://es6xxxxx.kb.ps.cdm-db.com:9243",
+          "api_key": "UnF2WmXXXXXXX==",
+          "verify_ssl": true
+    },
+    "dhs": {
+      "kibana_url": "https://dhsxxxxxx.kb.ps.cdm-db.com:9243",
+      "api_key": "dUxfYmXXXXXXXX==",
+      "verify_ssl": true
+    },
+    "FISMA Scorecard": {
+      "kibana_url": "https://fismaxxxxxx.kb.ps.cdm-db.com:9243",
+      "api_key": "ektEZXXXXXXXXXX==",
+      "verify_ssl": true
+    }
+  }
+}
