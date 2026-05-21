@@ -1,0 +1,15 @@
+Review the scripts I attached. and the clusters.json file.
+
+
+
+Help me write a readme for both of these scripts. You have helped with this before.  Go ahead and write the readme for both scripts again. Write this readmes in both markdown and word format.
+
+
+
+Then secondly, help me write a request that I am making to the DevScops team. In this request, I want to have them help me refactor these scripts such that:
+
+
+
+1. the credentials in the clusters.json file would rather be retrieved from AWS Secret Manager rather than from clusters.json file that is a plain text
+
+2. The script can be run in Ansible AWX, the applicable/necessary argumnts would be able to be passed as variables in Ansible AWX
