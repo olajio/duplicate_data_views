@@ -11,7 +11,7 @@
       "verify_ssl": true
     },
     "(ES6BA) ES Baseline Agency": {
-      "kibana_url": "https://es6agencybase.kb.ps.cdm-db.com:9243",
+      "kibana_url": "https://es6agencyxxxxx.kb.ps.cdm-db.com:9243",
       "api_key": "RWFHbxxxxxxx==",
       "verify_ssl": true
     },
